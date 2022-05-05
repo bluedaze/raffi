@@ -1,0 +1,15 @@
+{
+  "name": "discord-box-digital-ocean-tutorial",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Pedigo",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.0.0",
+    "discord.js": "^13.6.0"
+  }
+}
